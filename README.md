@@ -1,2 +1,2 @@
 # Bank-MK
-Rico Banco Marketing Analysis 
+Rico Banco Marketing Analysis EDA
